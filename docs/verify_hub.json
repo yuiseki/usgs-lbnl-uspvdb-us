@@ -1,0 +1,13 @@
+{
+ "repo": "yuiseki/usgs-lbnl-uspvdb-us",
+ "revision": "5e4305552ac145b53bb348cc7cc2190013ef358a",
+ "files_checked": 19,
+ "files_on_hub": 20,
+ "rows": 6611,
+ "duckdb": [
+  6611,
+  6611,
+  131573.5
+ ],
+ "problems": []
+}

@@ -1,0 +1,26 @@
+{
+ "repo": "yuiseki/usgs-lbnl-uspvdb-us",
+ "revision": "5e4305552ac145b53bb348cc7cc2190013ef358a",
+ "pushed": "2026-11-04T04:26:07+00:00",
+ "sha256": {
+  "README.md": "00816316f08cfb344effa6df627d7814ac178b804e501d907b6fc46f9564923d",
+  "LICENSE": "ac0e724dd4a3b335dec85060b5dbf06cd2029100989227b66386dfdabee88563",
+  "provenance.yaml": "6609a0300b8ee83d1faeb2084a285c1b9a18ccae4207b79e60f53a4dfab8d668",
+  "parquet/uspvdb_v4_0_20260414.parquet": "a9d07d4c1d7411a5c2634a285b08ac94d7d050076fc5be15e189937acdf0dab6",
+  "raw/data/CHANGELOG.txt": "c27119ba0e14ce75143af6b99143f40c125d6522030f4483765456711f88a561",
+  "raw/data/MANIFEST.json": "6fa9e862ecd5534ca1d763d926b6da0b0f228aa095ed9c10abe7d9aaf9a8d112",
+  "raw/data/uspvdbCSV.zip": "3bc862e6988aa1474c55dab656bfc0e74bd8e4609ed2cec0bbce21091a0219fa",
+  "raw/data/uspvdbGeoJSON.zip": "ce5180752d80008c0ec99d67aa831564faf9c69dec859615722fc51f768fab1f",
+  "raw/data/uspvdbSHP.zip": "050412fbd7d31d3bebc5f2250a3dbdda451ddbe0bfda7d8173a903fd56d788fa",
+  "raw/data/uspvdb_v4_0_20260414.xml": "48d8829151113fc10540cb438ab334e3b702b369693dc032e60fb73a0daffa9f",
+  "docs/profile.json": "7e0a6afd67d609b8e61152a41aa7e0a207644e5f89c90276000110cd4e5f8ece",
+  "docs/verification.json": "1d5de185480889ac1faf1f8da88221db47ded0e34637cef1c27222e38ecfe90e",
+  "scripts/01_fetch.sh": "d2af09911c4ad91bdc081db91555abbdbb1e598dfef217c69949c19e5cb96361",
+  "scripts/02_build_verify.py": "977dce1a725a349567a26f1086c75dd9607be589f72586494f449eb40712f6b8",
+  "scripts/02b_cross_check.py": "fa6f18da1029e6733074d047ce1e4c0d87ac9da6115338e9e2b404709f5801c0",
+  "scripts/03_profile.py": "99231c6a353a53fc6735ed03378526766c32e581887225a8f232a51bdf2bf4a9",
+  "scripts/04_card.py": "c33fe82cbf92b73ca3a68db33efeb2f2c186711c33ca7ea15911feaed0fbc9b7",
+  "scripts/06_verify_hub.py": "8a0e1ba2458cdc9cf0046be2325df3216a1518f5775355d0f4a671a2bbd78731",
+  "src/publish.py": "3edd45e893b0b2b329e2a817e291380867eb7c67f762a43225ee3053e0ea3bb8"
+ }
+}
