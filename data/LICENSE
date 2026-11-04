@@ -1,0 +1,20 @@
+U.S. Large-Scale Solar Photovoltaic Database (USPVDB), V4.0 (2026-04-14). This repository repackages the provider's release.
+
+The provider (https://energy.usgs.gov/uspvdb/, retrieved 2026-11-04) states:
+
+  License and Attribution
+  Map services and data downloaded from the U.S. Large-Scale Solar Photovoltaic Database are free and in the public domain.
+  There are no restrictions; however, we request that the following acknowledgment statement be included in products and data derived
+  from our map services when citing, copying, or reprinting: "Map services and data are available from Large-Scale Solar Photovoltaic
+  Database, provided by the U.S. Geological Survey and Lawrence Berkeley National Laboratory via https://energy.usgs.gov/uspvdb".
+  Disclaimer
+  Although this digital spatial database has been subjected to rigorous review and is substantially complete, it is released on the
+  condition that neither the USGS, LBNL, nor the United States Government nor any agency thereof, nor any employees thereof, makes any
+  warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any
+  information contained within the database.
+
+USGS (https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits, retrieved 2026-11-04):
+  "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  Some non-USGS photographs, images and graphics on USGS sites are used with permission and are marked as copyrighted.
+
+The Parquet file and the cards in this repository were made by yuiseki. They add no restriction to the provider's terms.

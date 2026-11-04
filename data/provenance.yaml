@@ -1,0 +1,13 @@
+dataset: usgs-lbnl-uspvdb-us
+release: USPVDB V4.0, USPVDB_V4_0_20260414
+provider: U.S. Geological Survey (USGS) Energy Resources Program and Lawrence Berkeley National Laboratory (LBNL)
+landing_page: https://energy.usgs.gov/uspvdb/
+download_page: https://energy.usgs.gov/uspvdb/data/
+doi: https://doi.org/10.5066/P9IA3TUS
+publication: https://doi.org/10.1038/s41597-023-02644-8
+fetched_on: 2026-11-04
+fetch: curl, one file at a time, 5 s apart, User-Agent geo-dataset-collector-yuiseki/0.1 (personal research); no request refused
+licence_text_source: landing page "License and Attribution" and USGS copyrights and credits page (quoted in LICENSE)
+processing: GeoJSON of the release written as GeoParquet (zstd), EPSG:4326, columns in the CSV's order, FID and Id dropped; no value changed
+checks: docs/verification.json, docs/profile.json
+files: raw/data/MANIFEST.json

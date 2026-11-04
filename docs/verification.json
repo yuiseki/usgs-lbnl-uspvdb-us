@@ -1,0 +1,62 @@
+{
+ "rows": {
+  "geojson": 6611,
+  "shapefile": 6611,
+  "csv": 6611
+ },
+ "case_id_sets_equal": true,
+ "csv_vs_geojson_attribute_mismatches": 0,
+ "shp_vs_geojson_attribute_differences": {
+  "p_pwr_reg": {
+   "shp_vs_geojson_differences": 16,
+   "of_which_missing_or_minus9999_in_shp_null_in_geojson": 16
+  },
+  "p_tech_sec": {
+   "shp_vs_geojson_differences": 236,
+   "of_which_missing_or_minus9999_in_shp_null_in_geojson": 236
+  },
+  "p_axis": {
+   "shp_vs_geojson_differences": 284,
+   "of_which_missing_or_minus9999_in_shp_null_in_geojson": 284
+  },
+  "p_azimuth": {
+   "shp_vs_geojson_differences": 222,
+   "of_which_missing_or_minus9999_in_shp_null_in_geojson": 222
+  },
+  "p_tilt": {
+   "shp_vs_geojson_differences": 1323,
+   "of_which_missing_or_minus9999_in_shp_null_in_geojson": 1323
+  },
+  "p_battery": {
+   "shp_vs_geojson_differences": 6236,
+   "of_which_missing_or_minus9999_in_shp_null_in_geojson": 6236
+  },
+  "p_comm": {
+   "shp_vs_geojson_differences": 5510,
+   "of_which_missing_or_minus9999_in_shp_null_in_geojson": 5510
+  }
+ },
+ "shp_vs_geojson_attribute_differences_are_only_null_encoding": true,
+ "geometry": {
+  "compared_in": "North_America_Albers_Equal_Area_Conic (the shapefile CRS), geojson reprojected from EPSG:4326",
+  "features_with_symmetric_difference_over_1_m2": 33,
+  "median_symmetric_difference_m2": 1.0394818449684811e-06,
+  "max_symmetric_difference_m2": 7577.4932384136155,
+  "hausdorff_m_over_those_features": {
+   "max": 0.74,
+   "median": 0.716
+  },
+  "invalid_geometries": {
+   "geojson": 10,
+   "shapefile": 10,
+   "reason": "ring self-intersection (shapely explain_validity), kept as published"
+  },
+  "features_where_geojson_area_differs_from_p_area_by_over_0_1_percent": 3
+ },
+ "file_last_modified": {
+  "shapefile_zip": "Tue, 21 Apr 2026 18:40:31 GMT",
+  "geojson_zip": "Thu, 16 Apr 2026 15:21:38 GMT",
+  "csv_zip": "Thu, 16 Apr 2026 15:21:32 GMT"
+ },
+ "parquet_source": "GeoJSON in uspvdbGeoJSON.zip (EPSG:4326); columns of the CSV in the CSV's order; GIS artefact columns FID and Id (constant 0) dropped"
+}

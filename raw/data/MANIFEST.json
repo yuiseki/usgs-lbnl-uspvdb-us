@@ -1,0 +1,37 @@
+{
+ "fetched_by": "scripts/01_fetch.sh (curl, one file at a time, 5 s apart, no request refused)",
+ "fetched_on": "2026-11-04",
+ "release": "USPVDB V4.0 (USPVDB_V4_0_20260414)",
+ "files": {
+  "CHANGELOG.txt": {
+   "url": "https://energy.usgs.gov/uspvdb/assets/data/CHANGELOG.txt",
+   "bytes": 3032,
+   "sha256": "c27119ba0e14ce75143af6b99143f40c125d6522030f4483765456711f88a561",
+   "last_modified": "Wed, 15 Apr 2026 16:48:20 GMT"
+  },
+  "uspvdbCSV.zip": {
+   "url": "https://energy.usgs.gov/uspvdb/assets/data/uspvdbCSV.zip",
+   "bytes": 366335,
+   "sha256": "3bc862e6988aa1474c55dab656bfc0e74bd8e4609ed2cec0bbce21091a0219fa",
+   "last_modified": "Thu, 16 Apr 2026 15:21:32 GMT"
+  },
+  "uspvdbGeoJSON.zip": {
+   "url": "https://energy.usgs.gov/uspvdb/assets/data/uspvdbGeoJSON.zip",
+   "bytes": 9518397,
+   "sha256": "ce5180752d80008c0ec99d67aa831564faf9c69dec859615722fc51f768fab1f",
+   "last_modified": "Thu, 16 Apr 2026 15:21:38 GMT"
+  },
+  "uspvdbSHP.zip": {
+   "url": "https://energy.usgs.gov/uspvdb/assets/data/uspvdbSHP.zip",
+   "bytes": 7821574,
+   "sha256": "050412fbd7d31d3bebc5f2250a3dbdda451ddbe0bfda7d8173a903fd56d788fa",
+   "last_modified": "Tue, 21 Apr 2026 18:40:31 GMT"
+  },
+  "uspvdb_v4_0_20260414.xml": {
+   "url": "https://energy.usgs.gov/uspvdb/assets/data/uspvdb_v4_0_20260414.xml",
+   "bytes": 48468,
+   "sha256": "48d8829151113fc10540cb438ab334e3b702b369693dc032e60fb73a0daffa9f",
+   "last_modified": "Thu, 16 Apr 2026 15:16:09 GMT"
+  }
+ }
+}

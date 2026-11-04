@@ -1,0 +1,15 @@
+HTTP/2 200 
+date: Wed, 04 Nov 2026 04:19:08 GMT
+content-type: text/html
+cache-control: max-age=2592000
+cf-cache-status: HIT
+expires: Fri, 04 Dec 2026 02:06:26 GMT
+last-modified: Tue, 22 Sep 2026 17:11:07 GMT
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Accept-Encoding,User-Agent
+x-content-type-options: nosniff
+set-cookie: __cf_bm=MrNbMXMPI0wmuUW52JlfRxw65GQmAhmmkhHyECBqXr4-1793765948.4983943-1.0.1.1-AXJEf0jIQpHkMHJvhm1MzR7_utrgEGnYQ3ol87nn5Gn3xpKHT6t3iwhZjzvRix7B602CrjH3u8X7QZBcJ7MB6V7puCKcDZa7.o9ngWBQ3HFsL6FPBy2drZepTZ_UD13j; HttpOnly; SameSite=None; Secure; Path=/; Domain=usgs.gov; Expires=Wed, 04 Nov 2026 04:49:08 GMT
+age: 7962
+cf-ray: a550d19a1f0f76e0-SEA
+
